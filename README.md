@@ -1,3 +1,4 @@
+npm install video.js
 npm install hls.js @types/hls.js
 
 # React + TypeScript + Vite
